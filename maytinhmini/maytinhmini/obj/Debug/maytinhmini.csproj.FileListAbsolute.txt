@@ -1,0 +1,21 @@
+D:\BAI HOC\BAI TAP LAP TRINH\visual studio\maytinhmini\maytinhmini\bin\Debug\maytinhmini.exe.config
+D:\BAI HOC\BAI TAP LAP TRINH\visual studio\maytinhmini\maytinhmini\bin\Debug\maytinhmini.exe
+D:\BAI HOC\BAI TAP LAP TRINH\visual studio\maytinhmini\maytinhmini\bin\Debug\maytinhmini.pdb
+D:\BAI HOC\BAI TAP LAP TRINH\visual studio\maytinhmini\maytinhmini\obj\Debug\maytinhmini.Form1.resources
+D:\BAI HOC\BAI TAP LAP TRINH\visual studio\maytinhmini\maytinhmini\obj\Debug\maytinhmini.Properties.Resources.resources
+D:\BAI HOC\BAI TAP LAP TRINH\visual studio\maytinhmini\maytinhmini\obj\Debug\maytinhmini.csproj.GenerateResource.Cache
+D:\BAI HOC\BAI TAP LAP TRINH\visual studio\maytinhmini\maytinhmini\obj\Debug\maytinhmini.exe
+D:\BAI HOC\BAI TAP LAP TRINH\visual studio\maytinhmini\maytinhmini\obj\Debug\maytinhmini.pdb
+D:\BAI HOC\BAI TAP LAP TRINH\visual studio\maytinhmini\maytinhmini\obj\Debug\maytinhmini.csprojResolveAssemblyReference.cache
+C:\Users\Dinhvan\Downloads\maytinhmini\maytinhmini\maytinhmini\bin\Debug\maytinhmini.exe.config
+C:\Users\Dinhvan\Downloads\maytinhmini\maytinhmini\maytinhmini\obj\Debug\maytinhmini.exe
+C:\Users\Dinhvan\Downloads\maytinhmini\maytinhmini\maytinhmini\obj\Debug\maytinhmini.pdb
+C:\Users\DELL\Desktop\[Sharecode.vn] Code may tinh mini c#\maytinhmini\maytinhmini\bin\Debug\maytinhmini.exe.config
+C:\Users\DELL\Desktop\[Sharecode.vn] Code may tinh mini c#\maytinhmini\maytinhmini\bin\Debug\maytinhmini.exe
+C:\Users\DELL\Desktop\[Sharecode.vn] Code may tinh mini c#\maytinhmini\maytinhmini\bin\Debug\maytinhmini.pdb
+C:\Users\DELL\Desktop\[Sharecode.vn] Code may tinh mini c#\maytinhmini\maytinhmini\obj\Debug\maytinhmini.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\[Sharecode.vn] Code may tinh mini c#\maytinhmini\maytinhmini\obj\Debug\maytinhmini.Form1.resources
+C:\Users\DELL\Desktop\[Sharecode.vn] Code may tinh mini c#\maytinhmini\maytinhmini\obj\Debug\maytinhmini.Properties.Resources.resources
+C:\Users\DELL\Desktop\[Sharecode.vn] Code may tinh mini c#\maytinhmini\maytinhmini\obj\Debug\maytinhmini.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\[Sharecode.vn] Code may tinh mini c#\maytinhmini\maytinhmini\obj\Debug\maytinhmini.exe
+C:\Users\DELL\Desktop\[Sharecode.vn] Code may tinh mini c#\maytinhmini\maytinhmini\obj\Debug\maytinhmini.pdb

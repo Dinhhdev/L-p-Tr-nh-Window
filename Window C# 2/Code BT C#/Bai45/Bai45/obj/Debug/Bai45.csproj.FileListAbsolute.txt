@@ -1,0 +1,12 @@
+E:\ThanhTD.03_04 V1\Sourecode\Bai45\Bai45\bin\Debug\Bai45.exe.config
+E:\ThanhTD.03_04 V1\Sourecode\Bai45\Bai45\bin\Debug\Bai45.exe
+E:\ThanhTD.03_04 V1\Sourecode\Bai45\Bai45\bin\Debug\Bai45.pdb
+E:\ThanhTD.03_04 V1\Sourecode\Bai45\Bai45\obj\Debug\Bai45.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03_04 V1\Sourecode\Bai45\Bai45\obj\Debug\Bai45.frmImageList.resources
+E:\ThanhTD.03_04 V1\Sourecode\Bai45\Bai45\obj\Debug\Bai45.Properties.Resources.resources
+E:\ThanhTD.03_04 V1\Sourecode\Bai45\Bai45\obj\Debug\Bai45.csproj.GenerateResource.Cache
+E:\ThanhTD.03_04 V1\Sourecode\Bai45\Bai45\obj\Debug\Bai45.exe
+E:\ThanhTD.03_04 V1\Sourecode\Bai45\Bai45\obj\Debug\Bai45.pdb
+E:\ThanhTD.03_04 V1\Sourecode\Bai45\Bai45\obj\Debug\Bai45.frmTimer.resources
+E:\ThanhTD.03_04 V1\Sourecode\Bai45\Bai45\obj\Debug\Bai45.frmGameLuckySeven.resources
+E:\ThanhTD.03_04 V1\Sourecode\Bai45\Bai45\obj\Debug\Bai45.frmBackgroundWorker.resources

@@ -1,0 +1,10 @@
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\DTO\bin\Debug\DTO.dll
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\DTO\bin\Debug\DTO.pdb
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\DTO\obj\Debug\DTO.dll
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\DTO\obj\Debug\DTO.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\DTO\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\DTO\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\DTO\obj\Debug\DTO.dll
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\DTO\obj\Debug\DTO.pdb

@@ -1,0 +1,15 @@
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\DAL\bin\Debug\DAL.dll
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\DAL\bin\Debug\DAL.pdb
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\DAL\bin\Debug\DTO.dll
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\DAL\bin\Debug\DTO.pdb
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\DAL\obj\Debug\DAL.dll
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\DAL\obj\Debug\DAL.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\DAL\bin\Debug\DAL.dll
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\DAL\bin\Debug\DAL.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\DAL\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\DAL\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\DAL\obj\Debug\DAL.dll
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\DAL\obj\Debug\DAL.pdb

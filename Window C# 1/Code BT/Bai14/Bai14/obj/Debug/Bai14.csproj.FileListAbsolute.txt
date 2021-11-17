@@ -1,0 +1,12 @@
+E:\ThanhTD.03 V1\Sourecode\Bai14\Bai14\bin\Debug\Bai14.exe.config
+E:\ThanhTD.03 V1\Sourecode\Bai14\Bai14\bin\Debug\Bai14.exe
+E:\ThanhTD.03 V1\Sourecode\Bai14\Bai14\bin\Debug\Bai14.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai14\Bai14\obj\Debug\Bai14.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03 V1\Sourecode\Bai14\Bai14\obj\Debug\Bai14.exe
+E:\ThanhTD.03 V1\Sourecode\Bai14\Bai14\obj\Debug\Bai14.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai14\Bai14\bin\Debug\Bai14.exe.config
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai14\Bai14\bin\Debug\Bai14.exe
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai14\Bai14\bin\Debug\Bai14.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai14\Bai14\obj\Debug\Bai14.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai14\Bai14\obj\Debug\Bai14.exe
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai14\Bai14\obj\Debug\Bai14.pdb

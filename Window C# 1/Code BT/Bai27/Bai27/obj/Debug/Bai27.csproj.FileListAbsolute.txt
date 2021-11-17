@@ -1,0 +1,18 @@
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\bin\Debug\Bai27.exe.config
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\bin\Debug\Bai27.exe
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\bin\Debug\Bai27.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\obj\Debug\Bai27.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\obj\Debug\Bai27.Properties.Resources.resources
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\obj\Debug\Bai27.csproj.GenerateResource.Cache
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\obj\Debug\Bai27.exe
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\obj\Debug\Bai27.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\obj\Debug\Bai27.frmMain.resources
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai27\Bai27\bin\Debug\Bai27.exe.config
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai27\Bai27\bin\Debug\Bai27.exe
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai27\Bai27\bin\Debug\Bai27.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai27\Bai27\obj\Debug\Bai27.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai27\Bai27\obj\Debug\Bai27.frmMain.resources
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai27\Bai27\obj\Debug\Bai27.Properties.Resources.resources
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai27\Bai27\obj\Debug\Bai27.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai27\Bai27\obj\Debug\Bai27.exe
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai27\Bai27\obj\Debug\Bai27.pdb

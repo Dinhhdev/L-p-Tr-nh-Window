@@ -1,0 +1,12 @@
+E:\ThanhTD.03_04 V1\Sourecode\Bai67\Bai67\bin\Debug\Bai67.exe.config
+E:\ThanhTD.03_04 V1\Sourecode\Bai67\Bai67\bin\Debug\Bai67.exe
+E:\ThanhTD.03_04 V1\Sourecode\Bai67\Bai67\bin\Debug\Bai67.pdb
+E:\ThanhTD.03_04 V1\Sourecode\Bai67\Bai67\obj\Debug\Bai67.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03_04 V1\Sourecode\Bai67\Bai67\obj\Debug\Bai67.Form1.resources
+E:\ThanhTD.03_04 V1\Sourecode\Bai67\Bai67\obj\Debug\Bai67.Properties.Resources.resources
+E:\ThanhTD.03_04 V1\Sourecode\Bai67\Bai67\obj\Debug\Bai67.csproj.GenerateResource.Cache
+E:\ThanhTD.03_04 V1\Sourecode\Bai67\Bai67\obj\Debug\Bai67.exe
+E:\ThanhTD.03_04 V1\Sourecode\Bai67\Bai67\obj\Debug\Bai67.pdb
+E:\ThanhTD.03_04 V1\Sourecode\Bai67\Bai67\obj\Debug\Bai67.Form2.resources
+E:\ThanhTD.03_04 V1\Sourecode\Bai67\Bai67\obj\Debug\Bai67.Form3.resources
+E:\ThanhTD.03_04 V1\Sourecode\Bai67\Bai67\obj\Debug\Bai67.Form4.resources

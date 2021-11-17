@@ -1,0 +1,19 @@
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\BLL\bin\Debug\BLL.dll
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\BLL\bin\Debug\BLL.pdb
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\BLL\bin\Debug\DAL.dll
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\BLL\bin\Debug\DTO.dll
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\BLL\bin\Debug\DAL.pdb
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\BLL\bin\Debug\DTO.pdb
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\BLL\obj\Debug\BLL.dll
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\BLL\obj\Debug\BLL.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\BLL\bin\Debug\BLL.dll
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\BLL\bin\Debug\BLL.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\BLL\bin\Debug\DAL.dll
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\BLL\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\BLL\bin\Debug\DAL.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\BLL\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\BLL\obj\Debug\BLL.dll
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\BLL\obj\Debug\BLL.pdb

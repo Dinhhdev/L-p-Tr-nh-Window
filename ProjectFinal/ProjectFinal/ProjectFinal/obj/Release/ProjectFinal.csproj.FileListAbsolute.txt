@@ -1,0 +1,15 @@
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Release\ProjectFinal.exe.config
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Release\ProjectFinal.exe
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Release\ProjectFinal.pdb
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.csprojAssemblyReference.cache
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.GUI.frmAccount.resources
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.GUI.frmAdmin.resources
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.frmLogin.resources
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.GUI.frmMain.resources
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.Properties.Resources.resources
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.csproj.GenerateResource.cache
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.exe.licenses
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.exe
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Release\ProjectFinal.pdb
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Release\RdlCompile.cache
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Release\RdlCompile.compiled

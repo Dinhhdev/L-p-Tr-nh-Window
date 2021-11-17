@@ -1,0 +1,12 @@
+E:\ThanhTD.03 V1\Sourecode\Bai44\Bai44\bin\Debug\Bai44.exe.config
+E:\ThanhTD.03 V1\Sourecode\Bai44\Bai44\bin\Debug\Bai44.exe
+E:\ThanhTD.03 V1\Sourecode\Bai44\Bai44\bin\Debug\Bai44.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai44\Bai44\obj\Debug\Bai44.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03 V1\Sourecode\Bai44\Bai44\obj\Debug\Bai44.frmMain.resources
+E:\ThanhTD.03 V1\Sourecode\Bai44\Bai44\obj\Debug\Bai44.Properties.Resources.resources
+E:\ThanhTD.03 V1\Sourecode\Bai44\Bai44\obj\Debug\Bai44.csproj.GenerateResource.Cache
+E:\ThanhTD.03 V1\Sourecode\Bai44\Bai44\obj\Debug\Bai44.exe
+E:\ThanhTD.03 V1\Sourecode\Bai44\Bai44\obj\Debug\Bai44.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai44\Bai44\obj\Debug\Bai44.frmBai1.resources
+E:\ThanhTD.03 V1\Sourecode\Bai44\Bai44\obj\Debug\Bai44.frmBai2.resources
+E:\ThanhTD.03 V1\Sourecode\Bai44\Bai44\obj\Debug\Bai44.frmBai3.resources

@@ -1,0 +1,18 @@
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyHieuSach\QuanLyHieuSach\bin\Debug\QuanLyHieuSach.exe.config
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyHieuSach\QuanLyHieuSach\bin\Debug\QuanLyHieuSach.exe
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyHieuSach\QuanLyHieuSach\bin\Debug\QuanLyHieuSach.pdb
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\QuanLyHieuSach.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\QuanLyHieuSach.Form1.resources
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\QuanLyHieuSach.Properties.Resources.resources
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\QuanLyHieuSach.csproj.GenerateResource.Cache
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\QuanLyHieuSach.exe
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\QuanLyHieuSach.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\QuanLyHieuSach\QuanLyHieuSach\bin\Debug\QuanLyHieuSach.exe.config
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\QuanLyHieuSach\QuanLyHieuSach\bin\Debug\QuanLyHieuSach.exe
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\QuanLyHieuSach\QuanLyHieuSach\bin\Debug\QuanLyHieuSach.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\QuanLyHieuSach.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\QuanLyHieuSach.Form1.resources
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\QuanLyHieuSach.Properties.Resources.resources
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\QuanLyHieuSach.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\QuanLyHieuSach.exe
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\QuanLyHieuSach\QuanLyHieuSach\obj\Debug\QuanLyHieuSach.pdb

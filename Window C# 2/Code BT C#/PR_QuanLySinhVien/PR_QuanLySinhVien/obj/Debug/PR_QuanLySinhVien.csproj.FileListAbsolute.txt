@@ -1,0 +1,9 @@
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySinhVien\PR_QuanLySinhVien\bin\Debug\PR_QuanLySinhVien.exe.config
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySinhVien\PR_QuanLySinhVien\bin\Debug\PR_QuanLySinhVien.exe
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySinhVien\PR_QuanLySinhVien\bin\Debug\PR_QuanLySinhVien.pdb
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySinhVien\PR_QuanLySinhVien\obj\Debug\PR_QuanLySinhVien.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySinhVien\PR_QuanLySinhVien\obj\Debug\PR_QuanLySinhVien.Form1.resources
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySinhVien\PR_QuanLySinhVien\obj\Debug\PR_QuanLySinhVien.Properties.Resources.resources
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySinhVien\PR_QuanLySinhVien\obj\Debug\PR_QuanLySinhVien.csproj.GenerateResource.Cache
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySinhVien\PR_QuanLySinhVien\obj\Debug\PR_QuanLySinhVien.exe
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySinhVien\PR_QuanLySinhVien\obj\Debug\PR_QuanLySinhVien.pdb

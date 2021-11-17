@@ -1,0 +1,20 @@
+E:\ThanhTD.03_04 V1\Sourecode\Bai50\Bai50\bin\Debug\Bai50.exe.config
+E:\ThanhTD.03_04 V1\Sourecode\Bai50\Bai50\bin\Debug\Bai50.exe
+E:\ThanhTD.03_04 V1\Sourecode\Bai50\Bai50\bin\Debug\Bai50.pdb
+E:\ThanhTD.03_04 V1\Sourecode\Bai50\Bai50\obj\Debug\Bai50.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03_04 V1\Sourecode\Bai50\Bai50\obj\Debug\Bai50.Form1.resources
+E:\ThanhTD.03_04 V1\Sourecode\Bai50\Bai50\obj\Debug\Bai50.Properties.Resources.resources
+E:\ThanhTD.03_04 V1\Sourecode\Bai50\Bai50\obj\Debug\Bai50.csproj.GenerateResource.Cache
+E:\ThanhTD.03_04 V1\Sourecode\Bai50\Bai50\obj\Debug\Bai50.exe
+E:\ThanhTD.03_04 V1\Sourecode\Bai50\Bai50\obj\Debug\Bai50.pdb
+E:\ThanhTD.03_04 V1\Sourecode\Bai50\Bai50\obj\Debug\Bai50.frmThemNut.resources
+C:\Users\DELL\Desktop\LiThuyetWindow\Windownangcaolan4\doc0072216-sourecodelaptrinhc5tuannangcao\Bai50\Bai50\bin\Debug\Bai50.exe.config
+C:\Users\DELL\Desktop\LiThuyetWindow\Windownangcaolan4\doc0072216-sourecodelaptrinhc5tuannangcao\Bai50\Bai50\bin\Debug\Bai50.exe
+C:\Users\DELL\Desktop\LiThuyetWindow\Windownangcaolan4\doc0072216-sourecodelaptrinhc5tuannangcao\Bai50\Bai50\bin\Debug\Bai50.pdb
+C:\Users\DELL\Desktop\LiThuyetWindow\Windownangcaolan4\doc0072216-sourecodelaptrinhc5tuannangcao\Bai50\Bai50\obj\Debug\Bai50.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\LiThuyetWindow\Windownangcaolan4\doc0072216-sourecodelaptrinhc5tuannangcao\Bai50\Bai50\obj\Debug\Bai50.Form1.resources
+C:\Users\DELL\Desktop\LiThuyetWindow\Windownangcaolan4\doc0072216-sourecodelaptrinhc5tuannangcao\Bai50\Bai50\obj\Debug\Bai50.frmThemNut.resources
+C:\Users\DELL\Desktop\LiThuyetWindow\Windownangcaolan4\doc0072216-sourecodelaptrinhc5tuannangcao\Bai50\Bai50\obj\Debug\Bai50.Properties.Resources.resources
+C:\Users\DELL\Desktop\LiThuyetWindow\Windownangcaolan4\doc0072216-sourecodelaptrinhc5tuannangcao\Bai50\Bai50\obj\Debug\Bai50.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\LiThuyetWindow\Windownangcaolan4\doc0072216-sourecodelaptrinhc5tuannangcao\Bai50\Bai50\obj\Debug\Bai50.exe
+C:\Users\DELL\Desktop\LiThuyetWindow\Windownangcaolan4\doc0072216-sourecodelaptrinhc5tuannangcao\Bai50\Bai50\obj\Debug\Bai50.pdb

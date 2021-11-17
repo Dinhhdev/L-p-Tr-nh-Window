@@ -1,0 +1,18 @@
+E:\ThanhTD.03_04 V1\Sourecode\Bai51\Bai51\bin\Debug\Bai51.exe.config
+E:\ThanhTD.03_04 V1\Sourecode\Bai51\Bai51\bin\Debug\Bai51.exe
+E:\ThanhTD.03_04 V1\Sourecode\Bai51\Bai51\bin\Debug\Bai51.pdb
+E:\ThanhTD.03_04 V1\Sourecode\Bai51\Bai51\obj\Debug\Bai51.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03_04 V1\Sourecode\Bai51\Bai51\obj\Debug\Bai51.Form1.resources
+E:\ThanhTD.03_04 V1\Sourecode\Bai51\Bai51\obj\Debug\Bai51.Properties.Resources.resources
+E:\ThanhTD.03_04 V1\Sourecode\Bai51\Bai51\obj\Debug\Bai51.csproj.GenerateResource.Cache
+E:\ThanhTD.03_04 V1\Sourecode\Bai51\Bai51\obj\Debug\Bai51.exe
+E:\ThanhTD.03_04 V1\Sourecode\Bai51\Bai51\obj\Debug\Bai51.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\Bai51\Bai51\bin\Debug\Bai51.exe.config
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\Bai51\Bai51\bin\Debug\Bai51.exe
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\Bai51\Bai51\bin\Debug\Bai51.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\Bai51\Bai51\obj\Debug\Bai51.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\Bai51\Bai51\obj\Debug\Bai51.Form1.resources
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\Bai51\Bai51\obj\Debug\Bai51.Properties.Resources.resources
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\Bai51\Bai51\obj\Debug\Bai51.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\Bai51\Bai51\obj\Debug\Bai51.exe
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\Bai51\Bai51\obj\Debug\Bai51.pdb

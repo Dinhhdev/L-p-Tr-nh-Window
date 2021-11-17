@@ -1,0 +1,9 @@
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyTrungTam\QuanLyTrungTam\bin\Debug\QuanLyTrungTam.exe.config
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyTrungTam\QuanLyTrungTam\bin\Debug\QuanLyTrungTam.exe
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyTrungTam\QuanLyTrungTam\bin\Debug\QuanLyTrungTam.pdb
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyTrungTam\QuanLyTrungTam\obj\Debug\QuanLyTrungTam.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyTrungTam\QuanLyTrungTam\obj\Debug\QuanLyTrungTam.Form1.resources
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyTrungTam\QuanLyTrungTam\obj\Debug\QuanLyTrungTam.Properties.Resources.resources
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyTrungTam\QuanLyTrungTam\obj\Debug\QuanLyTrungTam.csproj.GenerateResource.Cache
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyTrungTam\QuanLyTrungTam\obj\Debug\QuanLyTrungTam.exe
+E:\ThanhTD.03_04 V1\Sourecode\QuanLyTrungTam\QuanLyTrungTam\obj\Debug\QuanLyTrungTam.pdb

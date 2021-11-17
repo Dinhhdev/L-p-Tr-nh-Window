@@ -1,0 +1,22 @@
+E:\ThanhTD.03_04 V1\Sourecode\HocDotNetBar\HocDotNetBar\bin\Debug\HocDotNetBar.exe.config
+E:\ThanhTD.03_04 V1\Sourecode\HocDotNetBar\HocDotNetBar\bin\Debug\HocDotNetBar.exe
+E:\ThanhTD.03_04 V1\Sourecode\HocDotNetBar\HocDotNetBar\bin\Debug\HocDotNetBar.pdb
+E:\ThanhTD.03_04 V1\Sourecode\HocDotNetBar\HocDotNetBar\bin\Debug\DevComponents.DotNetBar2.dll
+E:\ThanhTD.03_04 V1\Sourecode\HocDotNetBar\HocDotNetBar\bin\Debug\DevComponents.DotNetBar2.xml
+E:\ThanhTD.03_04 V1\Sourecode\HocDotNetBar\HocDotNetBar\obj\Debug\HocDotNetBar.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03_04 V1\Sourecode\HocDotNetBar\HocDotNetBar\obj\Debug\HocDotNetBar.Form1.resources
+E:\ThanhTD.03_04 V1\Sourecode\HocDotNetBar\HocDotNetBar\obj\Debug\HocDotNetBar.Properties.Resources.resources
+E:\ThanhTD.03_04 V1\Sourecode\HocDotNetBar\HocDotNetBar\obj\Debug\HocDotNetBar.csproj.GenerateResource.Cache
+E:\ThanhTD.03_04 V1\Sourecode\HocDotNetBar\HocDotNetBar\obj\Debug\HocDotNetBar.exe
+E:\ThanhTD.03_04 V1\Sourecode\HocDotNetBar\HocDotNetBar\obj\Debug\HocDotNetBar.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\HocDotNetBar\HocDotNetBar\bin\Debug\HocDotNetBar.exe.config
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\HocDotNetBar\HocDotNetBar\bin\Debug\HocDotNetBar.exe
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\HocDotNetBar\HocDotNetBar\bin\Debug\HocDotNetBar.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\HocDotNetBar\HocDotNetBar\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\HocDotNetBar\HocDotNetBar\obj\Debug\HocDotNetBar.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\HocDotNetBar\HocDotNetBar\obj\Debug\HocDotNetBar.Form1.resources
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\HocDotNetBar\HocDotNetBar\obj\Debug\HocDotNetBar.Properties.Resources.resources
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\HocDotNetBar\HocDotNetBar\obj\Debug\HocDotNetBar.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\HocDotNetBar\HocDotNetBar\obj\Debug\HocDotNetBar.csproj.CopyComplete
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\HocDotNetBar\HocDotNetBar\obj\Debug\HocDotNetBar.exe
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\HocDotNetBar\HocDotNetBar\obj\Debug\HocDotNetBar.pdb

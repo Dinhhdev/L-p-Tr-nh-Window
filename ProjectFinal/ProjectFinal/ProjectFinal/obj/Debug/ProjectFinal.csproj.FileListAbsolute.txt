@@ -1,0 +1,182 @@
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe.config
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.pdb
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csprojAssemblyReference.cache
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.frmLogin.resources
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.Properties.Resources.resources
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.GenerateResource.cache
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.exe
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.pdb
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.exe.licenses
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.GUI.frmAdmin.resources
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.GUI.frmMain.resources
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.GUI.frmAccount.resources
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Debug\RdlCompile.cache
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Debug\RdlCompile.compiled
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\EnvDTE.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\stdole.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.MSXML.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Lập trình trên môi trường Windows\Labs\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.CopyComplete
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe.config
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.exe
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\ProjectFinal.pdb
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\EnvDTE.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\stdole.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\EnvDTE80.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\VSLangProj.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\VSLangProj80.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Newtonsoft.Json.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.MSXML.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.Build.Framework.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\VSLangProj2.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.xml
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csprojAssemblyReference.cache
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.exe.config
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.GUI.frmAccount.resources
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.GUI.frmAdmin.resources
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.frmLogin.resources
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.GUI.frmMain.resources
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.Properties.Resources.resources
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.GenerateResource.cache
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.exe.licenses
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\RdlCompile.cache
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\RdlCompile.compiled
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.csproj.CopyComplete
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.exe
+D:\CODE\VisualStudio2019\C#\ProjectFinal\ProjectFinal\ProjectFinal\obj\Debug\ProjectFinal.pdb

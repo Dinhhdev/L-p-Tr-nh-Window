@@ -1,0 +1,34 @@
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\GUI\bin\Debug\GUI.exe.config
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\GUI\bin\Debug\GUI.exe
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\GUI\bin\Debug\GUI.pdb
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\GUI\bin\Debug\BLL.dll
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\GUI\bin\Debug\DTO.dll
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\GUI\bin\Debug\DAL.dll
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\GUI\bin\Debug\BLL.pdb
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\GUI\bin\Debug\DTO.pdb
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\GUI\bin\Debug\DAL.pdb
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.Form1.resources
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.exe
+E:\ThanhTD.03_04 V1\Sourecode\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\bin\Debug\GUI.exe.config
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\bin\Debug\GUI.exe
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\bin\Debug\GUI.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\bin\Debug\BLL.dll
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\bin\Debug\DTO.dll
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\bin\Debug\DAL.dll
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\bin\Debug\BLL.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\bin\Debug\DTO.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\bin\Debug\DAL.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.Form1.resources
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.csproj.CopyComplete
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.exe
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.pdb
+C:\Users\DELL\Desktop\LiThuyetWindow\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\bin\Debug\GUI.exe.config
+C:\Users\DELL\Desktop\LiThuyetWindow\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.exe
+C:\Users\DELL\Desktop\LiThuyetWindow\tai_lieu\doc0927159-sourecodelaptrinhc5tuannangcao\PR_QuanLySanPham_DaTang\GUI\obj\Debug\GUI.pdb

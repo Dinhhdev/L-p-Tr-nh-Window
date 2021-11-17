@@ -1,0 +1,18 @@
+E:\ThanhTD.03 V1\Sourecode\Bai24\Bai24\bin\Debug\Bai24.exe.config
+E:\ThanhTD.03 V1\Sourecode\Bai24\Bai24\bin\Debug\Bai24.exe
+E:\ThanhTD.03 V1\Sourecode\Bai24\Bai24\bin\Debug\Bai24.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai24\Bai24\obj\Debug\Bai24.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03 V1\Sourecode\Bai24\Bai24\obj\Debug\Bai24.Form1.resources
+E:\ThanhTD.03 V1\Sourecode\Bai24\Bai24\obj\Debug\Bai24.Properties.Resources.resources
+E:\ThanhTD.03 V1\Sourecode\Bai24\Bai24\obj\Debug\Bai24.csproj.GenerateResource.Cache
+E:\ThanhTD.03 V1\Sourecode\Bai24\Bai24\obj\Debug\Bai24.exe
+E:\ThanhTD.03 V1\Sourecode\Bai24\Bai24\obj\Debug\Bai24.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai24\Bai24\bin\Debug\Bai24.exe.config
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai24\Bai24\bin\Debug\Bai24.exe
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai24\Bai24\bin\Debug\Bai24.pdb
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai24\Bai24\obj\Debug\Bai24.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai24\Bai24\obj\Debug\Bai24.Form1.resources
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai24\Bai24\obj\Debug\Bai24.Properties.Resources.resources
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai24\Bai24\obj\Debug\Bai24.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai24\Bai24\obj\Debug\Bai24.exe
+C:\Users\DELL\Desktop\Code C#, Ppt\tai_lieu\doc0026406-sourecodetoantapngonngultc\Bai24\Bai24\obj\Debug\Bai24.pdb
